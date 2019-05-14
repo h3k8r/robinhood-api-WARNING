@@ -1,6 +1,6 @@
 # robinhood-api-WARNING
 robinhoos api WARNING
-python 
+python 2 3
 javascript 
 java 
 c# 
