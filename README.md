@@ -14,5 +14,3 @@ warning to all developers
 robinhood api shutting down
 account disabled if api use detected
 WARNING
-
-
